@@ -1,0 +1,1 @@
+Os dois arquivos abaixo me foram úteis para gerar os .ipnyb da pasta EmersonFranca/QuarentenaDados
